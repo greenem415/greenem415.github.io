@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+
+@font-face {
+  font-family: "AUdimat-Regular";
+  src: url("../fonts/AUdimat-Regular.otf")
+}
+
+.heading {
+  text-align: center;
+  font-family: "AUdimat-Regular";
+}
+
+.heading p {
+  border-bottom: 3px;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-style: solid;
+}
+
+.body {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.formatting {
+  background-color: #4D4242;
+  color: #CC5858;
+}
+
+#storytext {
+  text-align: center;
+  margin-bottom: 12px;
+  font-size: 17px;
+  margin-top: -20px;
+  font-family: "Special Elite";
+}
+
+
+.credit {
+  text-align: right;
+  margin-top: 470px;
+}
+
+img {
+  width: 213px;
+  height: 300px;
+}
+
+#letsplaybutton {
+  color: #0000ff;
+  border-color: white;
+  border-width: 1px;
+  background-color: #9E9E9E;
+  background: #858585;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: white;
+  font-family: Arial;
+  color: brown;
+  font-size: 16px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+#letsplaybutton:hover {
+  background: ;
+  border-color: white;
+  color: #B80000;
+}
